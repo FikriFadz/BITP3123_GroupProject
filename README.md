@@ -58,6 +58,8 @@
 
 3. Architecture/Layer diagram for each of the apps including the middleware
 
+- https://1drv.ms/i/c/3e920a28b315c355/EQgL1xM97rlCo6rWjwQ6jI8B2aVpxhYK1p-JJ-enAzuYyQ?e=UknZCV
+
 ---------------------------------------------------------------------------------------------
 
 4. List of URL end points middleware RESTful
