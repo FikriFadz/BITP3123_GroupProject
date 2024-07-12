@@ -15,19 +15,19 @@
   - Purpose: Enables landlords to add new properties to the rental listing.
   - Process: Landlords fill out a form with property details (e.g., address, rent, description, images) which gets saved to the database.
      	
-   3.	View Listed Properties:
-      - Purpose: Allows landlords to see all properties they have listed.
-      - Process: Displays a dashboard with a list of properties and options to view more details of each property.
+   2.	View Listed Properties:
+  - Purpose: Allows landlords to see all properties they have listed.
+  - Process: Displays a dashboard with a list of properties and options to view more details of each property.
 
-   4.	Update Property Details:
-      - Purpose: Allows landlords to modify the details of their listed properties.
-      - Process: Provides an edit form pre-filled with the existing property details, which can be updated and saved to the database.
+   5.	Update Property Details:
+  - Purpose: Allows landlords to modify the details of their listed properties.
+  - Process: Provides an edit form pre-filled with the existing property details, which can be updated and saved to the database.
 
-   5.	Remove Property:
+   6.	Remove Property:
       - Purpose: Enables landlords to remove properties from the listing.
       - Process: Provides an option to delete properties from the list and removes them from the database.
 
-   6.	Send Monthly Rental Details to Tenant:
+   7.	Send Monthly Rental Details to Tenant:
       - Purpose: Automatically sends rental payment details to tenants each month.
       - Process: Generates rental details periodically (e.g., via a script or cron job) and sends them to tenants through email or notifications.
 
