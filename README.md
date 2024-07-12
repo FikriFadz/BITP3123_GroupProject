@@ -12,8 +12,8 @@
 - Landlord Application
 
    1.	List Property:
-      - Purpose: Enables landlords to add new properties to the rental listing.
-      - Process: Landlords fill out a form with property details (e.g., address, rent, description, images) which gets saved to the database.
+  - Purpose: Enables landlords to add new properties to the rental listing.
+  - Process: Landlords fill out a form with property details (e.g., address, rent, description, images) which gets saved to the database.
      	
    3.	View Listed Properties:
       - Purpose: Allows landlords to see all properties they have listed.
