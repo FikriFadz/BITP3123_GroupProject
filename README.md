@@ -1,9 +1,9 @@
 # BITP3123_GroupProject
 
-Mohamad Fikri Bin Ahmad Fadzil B032210107
-Dines Kumar A/L Santraseagaran B032210030
-Mohamad Hisham Bin Salehhudin B032210437
-Kishore A/L Kanun B032210031
+- Mohamad Fikri Bin Ahmad Fadzil B032210107
+- Dines Kumar A/L Santraseagaran B032210030
+- Mohamad Hisham Bin Salehhudin B032210437
+- Kishore A/L Kanun B032210031
 
 ---------------------------------------------------------------------------------------------
 
